@@ -86,7 +86,8 @@
 @media (max-width: 500px) {
   .signinForm,
   .signupForm,
-  .forgetPassForm {
+  .forgetPassForm,
+  .resetPassword {
     width: 260px;
   }
 }
